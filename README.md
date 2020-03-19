@@ -11,10 +11,10 @@
 
 # 2.Mediator Pattern
 
-   ```sh
-   Mediator pattern defines an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping
-   objects from referring to each other explicitly, and it lets us vary their interaction independently.
-   ```
-   ```sh
-   Used for Auction of Tender.
-   ```
+  ```sh
+  Mediator pattern defines an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping
+  objects from referring to each other explicitly, and it lets us vary their interaction independently.
+  ```
+  ```sh
+  Used for Auction of Tender.
+  ```
