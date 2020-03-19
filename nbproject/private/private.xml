@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/db/TenderDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/db/CompanyDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/db/AuctionDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/models/Company.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/models/Tender.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/models/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/forms/login.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/db/DAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/db/UserDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/auction/Mediator.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/models/Dbcontext.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/auction/AuctionMediator.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/models/Auction.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/OOSE/src/oose/OOSE.java</file>
+        </group>
+    </open-files>
+</project-private>
